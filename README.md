@@ -1,6 +1,8 @@
 # /TRY command for QBCore
 
-simple script for player when he want random answer YES or NO in local chat
+simple script for FiveM QBCore when he want random answer YES or NO in local chat
+
+Drop the wm-try folder into your [standalone]
 
 command : /try
 
